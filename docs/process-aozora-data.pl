@@ -1,6 +1,6 @@
 # process-aozora-data.pl - 青空文庫作品データ加工ツール
 # 
-# Copyright (c) 2023 Ricoh Company, Ltd.
+# Copyright (c) 2023, 2024 Ricoh Company, Ltd.
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy of
 # this software and associated documentation files (the “Software”), to deal in
